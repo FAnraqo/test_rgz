@@ -1,1 +1,1 @@
-print('Hello world! And Novosibirsk)))(')
+print('Hello world! And Novosibirsk)))()')
